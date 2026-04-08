@@ -142,7 +142,7 @@ I'm a **Network Deploy Technician at AWS Data Center PDX172** with a passion for
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/michaelhullett)
 [![boto3](https://img.shields.io/badge/boto3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/michaelhullett)
 
-**Production-ready tool that automates security analysis of AWS Network Firewall configurations**
+**Near Production-ready tool that automates security analysis of AWS Network configurations**
 
 - 🔍 **7 comprehensive security checks** for rule misconfigurations
 - 🎯 Detects overly permissive rules, broad port ranges, missing logging, and Suricata rule issues
