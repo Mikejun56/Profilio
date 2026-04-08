@@ -202,8 +202,6 @@ I'm a **Network Deploy Technician at AWS Data Center PDX172** with a passion for
 
 🎯 **Decreased deployment errors by 20%** with automated validation tools
 
-🔧 **Deployed production AWS Network Firewall infrastructure** in 3 months after role transition
-
 ---
 
 ## 🎨 Beyond Tech
