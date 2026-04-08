@@ -18,7 +18,7 @@ About Me!
 
 I'm a **Network Deploy Technician at AWS Data Center PDX172** with a passion for cybersecurity, automation, and building reliable systems. I combine operational AWS experience with strong software development fundamentals to create practical, production-ready solutions.
 
-- 🔭 Currently working on **AWS Network Firewall security automation tools**
+- 🔭 Currently working on **AWS security automation tools**
 - 🎓 Pursuing **Master's in Cybersecurity** at Western Governors University
 - 🌱 Specializing in **cloud security, network infrastructure, and Python automation**
 - 💡 Transitioning from operations to **Software Development Engineer (SDE)** roles
